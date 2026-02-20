@@ -7,7 +7,7 @@ first_name: Hamidreza
 middle_name: 
 last_name: Mahyar
 contact_note: >
-  Hiring new students Email me.
+  Hiring new students <a href="mailto:mahyarh@mcmaster.ca">Email me</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
