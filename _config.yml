@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hamidreza
 last_name: Mahyar
 contact_note: >
-  Hiring new students <a href="mailto:mahyarh@mcmaster.ca">Email me</a>.
+  Hiring new students <a href="mailto:mahyarh@mcmaster.ca">Email</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 
